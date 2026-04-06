@@ -41,11 +41,9 @@ Analyzed customer behavior and revenue trends using SQL and Power BI on the Saki
 ---
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/hema-malini08/customer-behaviour-revenue-analysis/blob/main/customer%20behaviour%20and%20revnue%20analysis.png)
 
 ---
 
-## Project Files
-- SQL Queries: analysis.sql  
-- Power BI Dashboard: dashboard.pbix  
+  
 
